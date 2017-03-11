@@ -14,7 +14,6 @@ In our program, we load a picture such that the alpha value is maximized (an int
 Humans can't see it, but computers can easily detect this change by simply reading the alpha value of each pixel. Therefore, with a symmetric map, the message can be pulled back out from the image by checking each pixel's alpha value for it's difference from 255, and converting that integer back to it's corresponding letter (again A = 1, B = 2, etc.).
 
 ## Who should use this method of secretly sending messages?
-1) People who aren't and won't be under any legitimate intelligent investigation
-2) Enemies of the free world
+People who aren't and won't be under any legitimate intelligent investigation ⊕ Enemies of the free world
 
 
